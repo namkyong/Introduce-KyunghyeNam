@@ -1,15 +1,19 @@
-# KyunghyeNam
-
-<h1 align="center"> JiSeonNam</h1>
+<h1 align="center"> KyunghyeNam </h1>
 
 <h3>🦢도약</h3>
-33살에 개발자를 시작했습니다
+여러 시행 착오를 겪고 ai 엔지니어가 되었습니다. 열쩡 열쩡!! :) 
 
 <h3>프로젝트</h3>
-2번의 프로젝트를 통해, 공연예매사이트와 제로웨이스트 쇼핑몰을 웹서버에 올린 경험이 있습니다
+크고 작은 인공지능 기반의 프로젝트를 경험하였습니다.
+- DNN 기반의 최적 설계 및 GUI 배포
+- Muiti Objective Optimization을 이용한 다중 운전점 최적 설계
+- Active learning을 활용한 DNN 효율 학습
+- XAI을 활용한 제품 성능 예측 및 가시화
+등등,,
 
 <h3>🤗목표</h3>
-백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
+reinforcement learning, LLM에 관심이 많습니다.
+인공지능 기술 뿐만 아니라 풀스택 구현 및 배포해보고 싶습니다.
 
 <h3>🛠사용언어</h3>
 <div>
@@ -22,11 +26,4 @@
 </div>
 
 <h3>저를 더 알고싶다면</h3>
-<a href="https://velog.io/@987412563">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://i987412563i@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+contact : n_kh@naver.com
