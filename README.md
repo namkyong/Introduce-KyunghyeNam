@@ -32,5 +32,5 @@
 
 </div>
 
-<h3>저를 더 알고싶다면</h3>
-contact : n_kh@naver.com
+<h3>contact me</h3>
+n_kh@naver.com
