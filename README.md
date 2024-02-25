@@ -18,7 +18,6 @@
 
 * 인공지능 기술 뿐만 아니라 풀스택 구현 및 배포해보고 싶습니다.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <h3>🛠사용언어</h3>
 <div>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
